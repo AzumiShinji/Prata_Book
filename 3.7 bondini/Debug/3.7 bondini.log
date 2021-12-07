@@ -1,0 +1,4 @@
+﻿  bondini.cpp
+C:\Users\Azumi_Shinji\source\repos\Prata_Book\3.7 bondini\bondini.cpp(11,10): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Azumi_Shinji\source\repos\Prata_Book\3.7 bondini\bondini.cpp(11,10): warning C4566: character represented by universal-character-name '\u222B' cannot be represented in the current code page (1251)
+  3.7 bondini.vcxproj -> C:\Users\Azumi_Shinji\source\repos\Prata_Book\Debug\3.7 bondini.exe
