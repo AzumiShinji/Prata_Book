@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{71c9c35d-9685-42af-992c-5beaa26d913f}</ProjectGuid>
-    <RootNamespace>My37bondini</RootNamespace>
+    <ProjectGuid>{4720ba09-5d8d-4879-9680-a48271b3aa01}</ProjectGuid>
+    <RootNamespace>My38floatnum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>3.07 bondini</ProjectName>
+    <ProjectName>3.08 floatnum</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bondini.cpp" />
+    <ClCompile Include="floatnum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
