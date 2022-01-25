@@ -1,2 +1,3 @@
-﻿  chartype.cpp
-  3.5 chartype.vcxproj -> C:\Users\Azumi_Shinji\source\repos\Prata_Book\Debug\3.5 chartype.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3.5 chartype.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  chartype.cpp
+  3.5 chartype.vcxproj -> C:\Users\Azumi_Shinji\source\repos\Prata_Book\Debug\3.05 chartype.exe
