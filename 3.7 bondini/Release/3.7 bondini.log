@@ -1,7 +1,8 @@
-﻿  bondini.cpp
-C:\Users\Admin\Documents\GitHub\Prata_Book\3.7 bondini\bondini.cpp(11,10): warning C4129: 'C': unrecognized character escape sequence
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (3.7 bondini.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bondini.cpp
+C:\Users\Azumi_Shinji\source\repos\Prata_Book\3.7 bondini\bondini.cpp(11,10): warning C4129: 'C': unrecognized character escape sequence
   Generating code
-  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  Previous IPDB not found, fall back to full compilation.
   All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  3.7 bondini.vcxproj -> C:\Users\Admin\Documents\GitHub\Prata_Book\Release\3.7 bondini.exe
+  3.7 bondini.vcxproj -> C:\Users\Azumi_Shinji\source\repos\Prata_Book\Release\3.07 bondini.exe

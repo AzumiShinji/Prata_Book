@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a70e6d9a-7695-41c7-8614-f847ba9c16ce}</ProjectGuid>
-    <RootNamespace>My312modulus</RootNamespace>
+    <ProjectGuid>{ce828b14-c034-4a4b-b7aa-2bb003dea259}</ProjectGuid>
+    <RootNamespace>My314typecast</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="modulus.cpp" />
+    <ClCompile Include="typecast.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
