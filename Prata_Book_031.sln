@@ -87,6 +87,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.20 ptrstr", "4.20 ptrstr\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.21 newstrct", "4.21 newstrct\4.21 newstrct.vcxproj", "{73B79771-028B-4FB1-8248-A323BF8336FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.22 delete", "4.22 delete\4.22 delete.vcxproj", "{56A42517-53C0-479E-9701-37E4E081DF80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -601,6 +603,18 @@ Global
 		{73B79771-028B-4FB1-8248-A323BF8336FD}.Release|x64.Build.0 = Release|x64
 		{73B79771-028B-4FB1-8248-A323BF8336FD}.Release|x86.ActiveCfg = Release|Win32
 		{73B79771-028B-4FB1-8248-A323BF8336FD}.Release|x86.Build.0 = Release|Win32
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Debug|Any CPU.Build.0 = Debug|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Debug|x64.ActiveCfg = Debug|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Debug|x64.Build.0 = Debug|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Debug|x86.ActiveCfg = Debug|Win32
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Debug|x86.Build.0 = Debug|Win32
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Release|Any CPU.ActiveCfg = Release|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Release|Any CPU.Build.0 = Release|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Release|x64.ActiveCfg = Release|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Release|x64.Build.0 = Release|x64
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Release|x86.ActiveCfg = Release|Win32
+		{56A42517-53C0-479E-9701-37E4E081DF80}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
