@@ -24,6 +24,6 @@ int main()
 		<< charr2[2] << endl;
 	cout << "The third letter in " << str2 << " is "
 		<< str2[2] << endl;
-	
+
 	return 0;
 }

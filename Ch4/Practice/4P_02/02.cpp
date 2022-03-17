@@ -17,6 +17,6 @@ int main()
 	getline(cin, dessert);
 	cout << "I have some delicious " << dessert;
 	cout << " for you, " << name << ".\n";
-	
+
 	return 0;
 }
