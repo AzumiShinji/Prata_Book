@@ -1,6 +1,0 @@
-﻿  Generating code
-  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-LINK : fatal error LNK1201: error writing to program database 'C:\Users\Azumi_Shinji\source\repos\Prata_Book\Release\3.4 hexoct2.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
