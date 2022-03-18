@@ -5,10 +5,10 @@
 *  - наименование компании - производителя пиццы, которое может состоять из более чем одного слова;
 *  - диаметр пиццы;
 *  - вес пиццы;
-* 
+*
 * Разработайте структуру, которая может содержать всю информацию, и напишите программу,
 * использующую структурную переменную этого типа.
-* Программа должна запрашивать у пользователя каждый из перечисленных показателей 
+* Программа должна запрашивать у пользователя каждый из перечисленных показателей
 * и затем отобображать введенную информацию. Приеняйте cin (или его методы) и cout
 */
 
@@ -24,4 +24,17 @@ struct Pizza
 
 int main()
 {
+	using namespace std;
+
+	Pizza pepperoni;
+	cout << "Enter the name of company: ";
+	getline(cin, pepperoni.companyName);
+	cout << "Enter the diameter of pizza: ";
+	cin >> pepperoni.diameter;
+	cout << "Enter the weight of pizza: ";
+	cin >> pepperoni.weight;
+
+	cout << "The pizza's from " << pepperoni.companyName << " company, " << pepperoni.diameter << " in diameter, " << pepperoni.weight << " gramm is added";
+
+	return 0;
 }
