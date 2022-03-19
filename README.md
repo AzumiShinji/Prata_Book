@@ -1,2 +1,2 @@
 # Prata_Book
- Examples and tasks from the Prata's book
+ Examples and exercises from the Prata's book
