@@ -17,7 +17,7 @@ int main()
 		"May",		  "June",	  "July",	  "August",
 		"Semptember", "October",  "November", "December" };
 	int sellingNumbers[3][ArSize];
-	int YearSellings[3] = {0,0,0};
+	int YearSellings[3] = {};
 
 	cout << "Please enter number of sold books for each month: " << endl;
 
